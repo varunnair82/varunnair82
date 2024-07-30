@@ -14,3 +14,8 @@ My expertise spans across various domains, including:
 - Technical Leadership
 
 I have a keen interest in latest technologies such as Blockchain, Internet of Things (IoT), Digital Twin Solutions, and Artificial Intelligence (AI). I am actively exploring and understanding these fields to integrate them into innovative solutions. I am passionate about leveraging my skills to build solutions that solve real-world problems. I enjoy collaborating with cross-functional teams, mentoring emerging talent, and continuously exploring new technologies to stay ahead in this ever-evolving field.
+
+* 🌍  I'm based in Bangalore, Karnataka
+* ✉️  You can contact me at [varun.nair82@gmail.com](mailto:varun.nair82@gmail.com)
+* 🧠  I'm learning Gen AI
+* 🤝  I'm open to collaborating on IOT & Blockchain
